@@ -4,4 +4,6 @@ body{
     text-align: center;
     border: solid;
     font-family: cursive;
+    h1 span{
+        counter-reset: pink;
 }
